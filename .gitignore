@@ -3,3 +3,4 @@ doc/
 datasets/
 checkpoints/
 *.pth
+*.pth
